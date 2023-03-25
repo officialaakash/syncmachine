@@ -1,0 +1,21 @@
+{
+    "name": "SYCNHRONOUSMACHINE",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "echo \"No build specified\" && exit 1",
+        "test": "echo \"No test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/officialaakash/SYCNHRONOUSMACHINE.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/officialaakash/SYCNHRONOUSMACHINE/issues"
+    },
+    "homepage": "https://github.com/officialaakash/SYCNHRONOUSMACHINE#readme"
+} 
+
